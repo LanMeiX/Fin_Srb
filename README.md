@@ -4,7 +4,8 @@
 
 尚融宝是一个网络借贷信息中介服务平台，为个人投资者、个人融资用户和小微企业提供专业的线上信贷及出借撮合服务，与人人贷https://renrendai.com和拍拍贷https://www.ppdai.com/  此类平台有异曲同工之妙，默认本地访问端口：3000
 
-![1653316077575](C:\Users\lemon\Desktop\互联网金融项目\Lemon-Srb\assets\1653316077575.png)
+![1653316077575](![1653316077575](https://user-images.githubusercontent.com/82700457/172780947-f8878670-1d58-4a05-9840-e2e02d39701c.png)
+)
 
 ## 2、技术栈
 
