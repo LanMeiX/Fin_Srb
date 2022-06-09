@@ -24,27 +24,16 @@
 **后端**
 
 - SpringBoot 2.6.7.RELEASE
-
 - SpringCloud Hoxton.2021：微服务基础设施 - 服务注册、服务发现、服务熔断、微服务网关、配置中心等
-
 - SpringCloud Alibaba 2.2.2.RELEASE
-
 - MyBatis Plus：持久层框架和代码生成器
-
 - Lombok：简化实体类开发
-
 - Swagger2：Api接口文档生成工具
-
 - Logback：日志系统
-
 - alibaba-easyexcel：Excel读写
-
 - Spring Data Redis：Spring项目中访问Redis缓存
-
 - HTTPClient: 基于Http协议的客户端，用来实现远程调用
-
 - Spring Task：定时任务
-
 
 **数据库和中间件**
 
